@@ -1,5 +1,5 @@
 # 💫 About Me:
-Flutter<br>I know python
+ I am learning Flutter, Firebase<br>I know python<br> I am also a video editor <br>
 
 
 # 💻 Tech Stack:
