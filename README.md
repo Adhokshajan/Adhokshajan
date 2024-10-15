@@ -4,8 +4,8 @@
 🚀 Aspiring Entrepreneur | Tech Enthusiast | Problem Solver.<br>
 💻 Currently building projects in Flutter and diving into React Native.<br>
 Ask me about:
-Python
-Flutter
+Python,
+Flutter,
 React Native
 
 
