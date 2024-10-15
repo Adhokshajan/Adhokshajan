@@ -1,8 +1,8 @@
 # 💫 About Me:
- Hi, I'm [Your Name]!
-🎓 1st-year BTech student in Electronics and Communication Engineering (ECE).
-🚀 Aspiring Entrepreneur | Tech Enthusiast | Problem Solver.
-💻 Currently building projects in Flutter and diving into React Native.
+ Hi, I'm Adhokshajan Ranganath!<br>
+🎓 1st-year BTech student in Electronics and Communication Engineering (ECE).<br>
+🚀 Aspiring Entrepreneur | Tech Enthusiast | Problem Solver.<br>
+💻 Currently building projects in Flutter and diving into React Native.<br>
 Ask me about:
 Python
 Flutter
