@@ -1,5 +1,12 @@
 # 💫 About Me:
-I am currently working on react native and java script<br>I know python, flutter <br>I am also a video editor<br>I am an App Developer
+ Hi, I'm [Your Name]!
+🎓 1st-year BTech student in Electronics and Communication Engineering (ECE).
+🚀 Aspiring Entrepreneur | Tech Enthusiast | Problem Solver.
+💻 Currently building projects in Flutter and diving into React Native.
+Ask me about:
+Python
+Flutter
+React Native
 
 
 # 💻 Tech Stack:
