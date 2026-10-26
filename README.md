@@ -1,12 +1,14 @@
 # 💫 About Me:
  Hi, I'm Adhokshajan Ranganath!<br>
-🎓 1st-year BTech student in Electronics and Communication Engineering (ECE).<br>
+🎓 3rd-year BTech student in Electronics and Communication Engineering (ECE).<br>
 🚀 Aspiring Entrepreneur | Tech Enthusiast | Problem Solver.<br>
 💻 Currently building projects in Flutter and diving into React Native.<br>
 Ask me about:
 Python,
 Flutter,
-React Native
+React Native,
+CAPL,
+M Script
 
 
 # 💻 Tech Stack:
